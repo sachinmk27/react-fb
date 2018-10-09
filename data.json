@@ -1,0 +1,50 @@
+[
+  {
+    "item_description": "This is a text only item",
+    "image": "",
+    "likes": 10,
+    "id": 1,
+    "comments": [
+      {
+        "comment": "This is a comment",
+        "created_at": "Fri May 11 2018 19:17:43 GMT+0530 (IST)"
+      },
+      {
+        "comment": "This is another comment",
+        "created_at": "Fri May 10 2018 15:23:36 GMT+0530 (IST)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "item_description": "This is an item with an image",
+    "image": "/path/to/image.png",
+    "likes": 20,
+    "comments": [
+      {
+        "comment": "This is a comment",
+        "created_at": "Fri May 11 2018 19:17:43 GMT+0530 (IST)"
+      },
+      {
+        "comment": "This is another comment",
+        "created_at": "Fri May 10 2018 15:23:36 GMT+0530 (IST)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "item_description": "",
+    "image": "/path/to/image.png",
+    "likes": 20,
+    "comments": [
+      {
+        "comment": "This is a comment",
+        "created_at": "Fri May 11 2018 19:17:43 GMT+0530 (IST)"
+      },
+      {
+        "comment": "This is another comment",
+        "created_at": "Fri May 10 2018 15:23:36 GMT+0530 (IST)"
+      }
+    ]
+  }
+]
